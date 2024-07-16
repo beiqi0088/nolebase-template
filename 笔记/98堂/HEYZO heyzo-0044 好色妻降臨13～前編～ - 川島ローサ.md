@@ -7,6 +7,6 @@
 【下载工具】：比特彗星 比特精灵 uTorrent QBittorrent 迅雷极速版 闪电下载【请不要用迅雷官方版下载，官方版本已经被屏蔽】
 【影片预览】：看不到图请挂代理或点右键显示图片
 
-![[111858ao0ogmm5xmxaoujg.webp]]
+![](https://240200103.xyz/2024/07/16/1011c15678b5aeb726ea3cca10576a06.jpg)
 
 magnet:?xt=urn:btih:896321681E374F66B50AC7ACFA07CCA408EB0398
