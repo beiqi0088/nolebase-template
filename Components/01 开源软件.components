@@ -1,0 +1,93 @@
+{
+  "components": [
+    {
+      "id": "710914ec-c87b-4a62-a428-a91ff0fa66c8",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": true,
+      "showShadow": false,
+      "createAt": "2024-07-15T13:55:23.359Z",
+      "updateAt": "2024-07-15T13:55:23.359Z",
+      "components": [
+        {
+          "componentId": "7295512d-726a-4476-a4d1-42cc8ee24d6e"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "7295512d-726a-4476-a4d1-42cc8ee24d6e",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "showBorder": false,
+      "showShadow": false,
+      "createAt": "2024-07-15T14:12:09.464Z",
+      "updateAt": "2024-07-15T14:12:09.464Z",
+      "viewType": "gallary",
+      "newPageNameFormat": "{{date:YYYYMMDDHHmmss}} new",
+      "properties": [
+        {
+          "id": "7c12f05b-da25-4276-bc76-c681ac355645",
+          "name": "地址",
+          "isShow": true,
+          "type": "link",
+          "options": {
+            "width": "209"
+          }
+        },
+        {
+          "id": "b37ee113-3a29-4209-a25f-815e0b675a94",
+          "name": "种类",
+          "isShow": true,
+          "type": "multiSelect",
+          "options": {}
+        }
+      ],
+      "templates": [],
+      "groups": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "components--page-card-medium",
+        "showPropertyName": false,
+        "hideFileName": false,
+        "wrapFileName": true,
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains",
+          "layout": "components--page-card-cover-landscape"
+        },
+        "headColumnWidth": "436"
+      },
+      "filter": {
+        "id": "fea29bdf-0644-4135-be55-f08cf027d77d",
+        "type": "group",
+        "operator": "and",
+        "conditions": [
+          {
+            "id": "64b02e1d-999a-4e3c-b99e-5f6908a27b58",
+            "type": "filter",
+            "operator": "contains",
+            "property": "${file.path}",
+            "value": "软件笔记/开源软件",
+            "conditions": []
+          }
+        ]
+      },
+      "sort": {
+        "orders": [
+          {
+            "id": "f84d5746-6505-4c01-b5d5-5d68e1ce6bb1",
+            "property": "${file.basename}",
+            "direction": "asc"
+          }
+        ]
+      }
+    }
+  ],
+  "rootComponentId": "710914ec-c87b-4a62-a428-a91ff0fa66c8"
+}
