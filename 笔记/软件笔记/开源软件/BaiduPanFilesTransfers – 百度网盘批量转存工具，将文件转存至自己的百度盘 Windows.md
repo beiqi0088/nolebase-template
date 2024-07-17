@@ -5,7 +5,7 @@
 ---
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.appinn.com](https://www.appinn.com/baidupan-files-transfers/)
 
-  
+
 [百度网盘批量转存工具](https://www.appinn.com/baidupan-files-transfers/)是一款**批量**将百度盘链接转存至自己百度盘账号的小工具。@Appinn
 
 ![[笔记/软件笔记/开源软件/assets/eadeae9417146b9415f6e48f34c8a1e7_MD5.jpg]]
